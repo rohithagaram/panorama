@@ -3,6 +3,8 @@ image stitching using python
 Author : Rohith Agaram
 Date   : 30-10-2017
 
+
+
                      PANORAMA - IMAGE STITCHING 
 This package contains source code for image stiching
 
